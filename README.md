@@ -3,7 +3,7 @@
 ## Repository Outline
 
 1. README.md - Deskripsi umum proyek
-2. P0M1_zhaky_baridwan_triaji.ipynb - Notebook utama analisis eksplorasi dan visualisasi
+2. Notebook.ipynb - Notebook utama analisis eksplorasi dan visualisasi
 3. P0M1_zhaky_baridwan_triaji_dataset.csv - Dataset kendaraan dari Kaggle
 
 ## Problem Background
